@@ -89,6 +89,29 @@ flowchart TD
    ```
 4. **Open the app:**
    Visit [http://localhost:5173](http://localhost:5173) in your browser.
+   
+5. ** you can create the json-server and install in it
+   npm i json-server
+   and create another folder yhe name is file.Json
+   example :
+       { "id": "vv0eotUAzfXzg2nSJVPxZ",
+      "email": "sainiaayush970@gmail.com",
+      "password": "123456",
+      "folder": [],
+   "todolist": [
+   {
+          "id": 1,
+          "task": "Complete the project",
+          "description": "FSUFFuffsyxfauh<b>xjysjxsgysvgsygxgsuiy</b> njdcbkbdbciwbc",
+          "completed": true
+        },
+        {
+          "id": 2,
+          "task": "Attend the meeting",
+          "description": "FSUFFuffsyxfauh<b>xjysjxsgysvgsygxgsuiy</b> njdcbkbdbciwbc",
+          "completed": true}]
+   }
+   }
 
 ## Usage
 - Click "Create Folder" to add a new folder with a title and image URL.
