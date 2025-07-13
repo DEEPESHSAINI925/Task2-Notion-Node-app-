@@ -1,0 +1,21 @@
+a,h1,h2,h3,h4,h5,h6,p,span,div {
+    font-family: 'Roboto';
+}
+.line1{
+    width: 100% ;
+    height: 1px;
+    background-color: black;
+}
+.line2{
+    width: 100% ;
+    height: 1px;
+    background-color: black;
+}
+.line3{
+    width: 100% ;
+    height: 1px;
+    background-color: black;
+}
+.upper{
+    background-color: rgba(74, 72, 72, 0.474);
+}
